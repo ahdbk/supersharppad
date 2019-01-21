@@ -1,0 +1,15 @@
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\SuperSharpPadTests.deps.json
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\SuperSharpPadTests.runtimeconfig.json
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\SuperSharpPadTests.runtimeconfig.dev.json
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\SuperSharpPadTests.dll
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\bin\Debug\netcoreapp2.1\SuperSharpPadTests.pdb
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\obj\Debug\netcoreapp2.1\SuperSharpPadTests.csprojAssemblyReference.cache
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\obj\Debug\netcoreapp2.1\SuperSharpPadTests.csproj.CoreCompileInputs.cache
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\obj\Debug\netcoreapp2.1\SuperSharpPadTests.AssemblyInfoInputs.cache
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\obj\Debug\netcoreapp2.1\SuperSharpPadTests.AssemblyInfo.cs
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\obj\Debug\netcoreapp2.1\SuperSharpPadTests.dll
+C:\Users\Ahdbk\Documents\git\SuperSharpPad\SuperSharpPadTests\obj\Debug\netcoreapp2.1\SuperSharpPadTests.pdb
