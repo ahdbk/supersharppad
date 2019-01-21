@@ -13,6 +13,7 @@ namespace Tests
         public void Test1()
         {
             Assert.Pass();
+            Assert.Pass();
         }
     }
 }
